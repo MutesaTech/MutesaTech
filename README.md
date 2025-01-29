@@ -1,12 +1,38 @@
-- 👋 Hi, I’m @MutesaTech
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+👋 Hi, I'm [MUTESA Tech]!
 
-<!---
-MutesaTech/MutesaTech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+🚀 About Me
+
+A passionate developer who loves to build and explore new technologies. I enjoy working on open-source projects, contributing to the community, and continuously learning.
+
+🔧 Skills & Technologies
+
+Programming Languages: Python, JavaScript, 
+
+Web Development: Node.js, 
+
+Databases: MySQL,
+
+Tools & Platforms: Git, 
+
+📫 Connect With Me
+
+GitHub:  @MutesaTech
+
+LinkedIn: your-linkedin
+
+Email: mutesatechlink@gmail.com
+
+🌱 Currently Learning
+
+Machine Learning & AI
+
+DevOps & Cloud Technologies
+
+💡 Fun Fact
+
+ once built an AI-powered chatbot that convinced people it was a real human for over an hour in a live test!
+
+!
+
