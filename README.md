@@ -20,8 +20,6 @@ Tools & Platforms: Git,
 
 GitHub:  @MutesaTech
 
-LinkedIn: your-linkedin
-
 Email: mutesatechlink@gmail.com
 
 🌱 Currently Learning
@@ -34,5 +32,5 @@ DevOps & Cloud Technologies
 
  once built an AI-powered chatbot that convinced people it was a real human for over an hour in a live test!
 
-!
+
 
