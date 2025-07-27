@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on **BuiltByMe**  
 - 🌱 I’m currently learning **Artificial Intelligence**  
 - 👨‍💻 All of my projects are available at [mtech1.netlify.app](https://mtech1.netlify.app)  
-- 📝 I regularly write articles on [mutesatechlink.netlify.app](https://mutesatechlink.netlify.app)  
+- 📝 I regularly write articles on [ApplicationScholars](https://applicationscholars.blogspot.com/)  
 - 📫 Reach me at: **rwandacode@gmail.com**  
 - 📄 Know more about my experience: [mutesa-michel.vercel.app](https://mutesa-michel.vercel.app)  
 - ⚡ Fun fact: *I wrote this README at 2 AM. That’s peak productivity and peak regret time.*  
