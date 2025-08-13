@@ -17,7 +17,7 @@
 <h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
-  <a href="https://www.buymeacoffee.com/nkuriyekurv" target="_blank">
+  <a href="https://www.buymeacoffee.com/mutesatechlink" target="_blank">
     <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-%23BD5FFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee">
   </a>
 </div>
